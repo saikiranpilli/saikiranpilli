@@ -6,8 +6,7 @@
 
 🌐 **Portfolio:** [saikiranpilli.com](https://www.saikiranpilli.com)  
 📫 **Email:** [amritasaikiran@gmail.com](mailto:amritasaikiran@gmail.com)  
-📍 **Location:** Toronto, ON  
-📞 **Phone:** 647-675-0174  
+📍 **Location:** Toronto, ON   
 🔗 **LinkedIn:** [Sai Kiran Pilli](https://www.linkedin.com/in/sai-kiran-pilli)  
 
 ---
