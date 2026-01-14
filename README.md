@@ -1,110 +1,98 @@
-## 🎨 Hello, I'm **Sai Kiran Pilli**! 👋
+# Sai Kiran Pilli
 
-### 🚀 Data Scientist | AI & ML Enthusiast | Data Reporting Analyst
+**Data Analyst | Advanced Analytics | Power BI | Azure | Machine Learning**
 
-💡 Passionate about **turning data into insights** and **insights into action!** With a strong background in **machine learning, statistical analysis, and cloud computing**, I specialize in solving real-world business challenges with **Python, SQL, Power BI, and Azure**. Let's build something amazing together! ✨
-
-🌐 **Portfolio:** [saikiranpilli.com](https://www.saikiranpilli.com)  
-📫 **Email:** [amritasaikiran@gmail.com](mailto:amritasaikiran@gmail.com)  
-📍 **Location:** Toronto, ON   
-🔗 **LinkedIn:** [Sai Kiran Pilli](https://www.linkedin.com/in/sai-kiran-pilli)  
+📍 Toronto, Canada  
+📧 amritasaikiran@gmail.com  
+🔗 LinkedIn: http://www.linkedin.com/in/saikiranpilli  
 
 ---
 
-## 🏆 Certifications & Badges 🏅
+## 👋 About Me
 
-✨ **Microsoft Certified:** Azure Data Analyst Associate *(Exp: April 2025)*  
-✨ **Microsoft Certified:** Power BI Data Analyst Associate *(Exp: August 2025)*  
-✨ **Alteryx:** Machine Learning Fundamentals *(Exp: March 2027)*  
+Data Analyst with **4+ years of experience** delivering **enterprise-scale analytics, dashboards, and data-driven insights** across **insurance and enterprise technology domains**.
 
----
-
-## 🔥 Skills & Technologies 🔥
-
-🔹 **Programming:** Python 🐍 | SQL 📊 | NoSQL 🌍 | Java ☕ | C 💻  
-🔹 **Cloud & Big Data:** Azure ☁️ | Databricks ⚡ | Synapse Analytics 📡  
-🔹 **Databases:** MySQL 🛢️ | MongoDB 🍃 | Azure ML 🧠  
-🔹 **Machine Learning:** Alteryx 🤖 | NLP 🗣️ | Forecasting 📈 | Data Mining 🔎  
-🔹 **Visualization & Analytics:** Power BI 📊 | Tableau 📉 | Adobe Analytics 📢  
-🔹 **Soft Skills:** Analytical Thinking 💡 | Problem-Solving 🔍 | Creativity 🎭
+Hands-on expertise in **SQL, Python, Power BI, Tableau, Azure Data Factory, Databricks**, and **cloud-based analytics platforms**. Strong background in **predictive analytics, NLP, ETL validation, data modeling**, and **executive reporting**.
 
 ---
 
-## 🚀 Featured Projects & Case Studies 🌟
+## 🧠 Tech Stack
 
-🎯 **Health Bite - AI Chatbot for Nutrition**  
-🛠️ *Tech:* T5 | GPT-2 | NLP | Hugging Face | Power BI  
-🤖 Developed a chatbot to provide **personalized nutrition advice**! 🍎
+**Languages & Querying**  
+SQL · Python  
 
-🎯 **AI Consultant-Project Matching System**  
-🛠️ *Tech:* OpenAI | KNN | Django | JavaScript  
-🤝 Created an AI-powered **recommendation system** for project allocation! 🔗
+**BI & Analytics**  
+Power BI · DAX · Tableau · Excel  
 
-🎯 **Meeting Minder - Speech-to-Summary Browser Extension**  
-🛠️ *Tech:* NLP | Deep Learning | Python  
-📜 Turned **long meetings into concise summaries**—saving hours! ⏳
+**Cloud & Big Data**  
+Azure Data Factory · Azure Databricks · Azure Data Lake · Synapse  
 
-🎯 **Movie Recommendation System**  
-🛠️ *Tech:* TensorFlow | PyTorch | Scikit-learn  
-🍿 Built a smart **movie recommender** using collaborative filtering! 🎬
-
-🎯 **Credit Risk Analysis**  
-🛠️ *Tech:* Logistic Regression | Decision Trees | Python  
-🏦 Identified **risky loan applicants** using ML models! 💰
+**Machine Learning**  
+Statistical Modeling · Predictive Analytics · NLP  
 
 ---
 
-## 💼 Work Experience 👨‍💻
+## 📈 GitHub Activity
 
-### **🔹 Data Analyst - Accenture** *(Hyderabad, India | Jan 2022 - Mar 2023)*
-✅ Ensured **100% compliance** with FINRA regulations via **ETL pipelines**.  
-✅ Boosted **data accuracy by 92%** through enhanced **data cleaning**.  
-✅ Automated **60% of manual tasks**, reducing processing time by 50%! 🚀
+![Profile Views](https://komarev.com/ghpvc/?username=1999saki&style=flat)
 
-### **🔹 Loss Prevention Specialist - Walmart** *(Toronto, Canada | Oct 2023 - Present)*
-📊 Used **data analytics** to detect fraud patterns and reduce losses.  
-📈 Leveraged **Adobe Analytics** to enhance marketing & sales strategies.  
-🛒 Improved **demand forecasting** for better inventory planning.  
+![GitHub Streak](https://streak-stats.demolab.com?user=1999saki)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1999saki)
 
 ---
 
-## 🏅 Achievements & Publications 🏆
+## 🏆 GitHub Highlights
 
-🥇 **Winner - National Bank of Canada AI Hackathon (2024)**  
-  - Developed an **AI-driven consultant-project matching system** using OpenAI.  
-  - Enhanced **project-consultant alignment** with **historical data insights**.  
-
-🥈 **Finalist - National Inter-University Big Data and AI Challenge (2024)**  
-  - Published research: **"Improving Prediction Adherence to Mental Health Treatment Programs Using ML"**.  
+![Trophies](https://github-profile-trophy.vercel.app/?username=1999saki&margin-w=10)
 
 ---
 
-## 🎓 Education 🎓
+## 💼 Experience Snapshot
 
-🏫 **Lambton College, Toronto** *(May 2023 - Dec 2024)*  
-🎓 **Artificial Intelligence and Machine Learning**  
-📚 *Courses:* Data Science, NLP, Data Mining, Advanced Python
+**Data Analyst — Manulife**  
+*Toronto, Canada | June 2023 – Present*
+- Enterprise Power BI dashboards for insurance and finance
+- SQL-driven analysis across multiple source systems
+- Python automation for analytics workflows
+- Azure-based ETL validation and data modeling
 
-🏫 **Amrita University, Bangalore** *(Jun 2017 - Mar 2021)*  
-🎓 **BTech - Computer Science**  
-📚 *Courses:* Python, Math, Data Structures, ML
-
----
-
-## 🎗️ Volunteer Experience 🤝
-
-🌍 **Live-in Labs Program - Amrita University** *(Bangalore, India | 2019)*  
-💧 Conducted **300+ interviews** in rural India to assess **water quality & health**.  
-💡 Educated villagers on **home water purification techniques**.  
+**Data Analyst / Analytics Consultant — Rubrik**  
+*India | April 2021 – March 2023*
+- Product usage and customer behavior analytics
+- BI dashboards using Power BI and Tableau
+- NLP-based customer feedback analysis
+- Automated reporting pipelines
 
 ---
 
-## 📊 GitHub Stats 📈
+## 📌 Featured Work
 
-![Sai Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1999saki&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1999saki&layout=compact&theme=tokyonight)
+- Enterprise Insurance Analytics Platform  
+  *Power BI · SQL · Azure · Python*
+
+- Customer Usage & Retention Analytics  
+  *SQL · Python · Tableau · ML*
+
+- NLP Text Analytics on Customer Feedback  
+  *Python · NLP · ML*
+
+- Predictive Risk & Churn Models  
+  *Python · Statistical Modeling · ML*
 
 ---
 
-🔥 **Let's Connect & Collaborate!** 🔥  
-🔗 **[Portfolio](https://www.saikiranpilli.com)** 🚀
+## 🎓 Certifications
+
+- Microsoft Certified: **Azure Data Analyst Associate**
+- Microsoft Certified: **Power BI Data Analyst Associate**
+- **Alteryx Machine Learning Fundamentals**
+- Tableau Desktop Specialist *(In Progress)*
+
+---
+
+## 🤝 Open To
+
+- Data Analyst & BI roles  
+- Azure / Power BI consulting  
+- Analytics & machine learning collaborations  
