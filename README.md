@@ -3,7 +3,7 @@
 **Data Analyst | Advanced Analytics | Power BI | Azure | Machine Learning**
 
 📍 Toronto, Canada  
-📧 amritasaikiran@gmail.com  
+📧 Isaikiranpilli@gmail.com  
 🔗 LinkedIn: http://www.linkedin.com/in/saikiranpilli  
 
 ---
@@ -37,14 +37,6 @@ Statistical Modeling · Predictive Analytics · NLP
 ![Profile Views](https://komarev.com/ghpvc/?username=1999saki&style=flat)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=1999saki)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1999saki)
-
----
-
-## 🏆 GitHub Highlights
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=1999saki&margin-w=10)
 
 ---
 
