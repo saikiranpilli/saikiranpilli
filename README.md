@@ -36,8 +36,6 @@ Statistical Modeling · Predictive Analytics · NLP
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1999saki&style=flat)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=1999saki)
-
 ---
 
 ## 💼 Experience Snapshot
