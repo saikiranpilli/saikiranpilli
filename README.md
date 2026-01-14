@@ -3,7 +3,7 @@
 **Data Analyst | Advanced Analytics | Power BI | Azure | Machine Learning**
 
 📍 Toronto, Canada  
-📧 Isaikiranpilli@gmail.com  
+📧 isaikiranpilli@gmail.com  
 🔗 LinkedIn: http://www.linkedin.com/in/saikiranpilli  
 
 ---
